@@ -4,7 +4,7 @@ _Data Analyst | Problem Solver | Tech Enthusiast_
 ---
 
 ## 👩‍💻 About Me
-I am an data analyst with a passion for turning data into actionable insights. I enjoy working with various tools and technologies to analyze data and provide data-driven solutions.
+I am a data analyst with a passion for turning data into actionable insights. I enjoy working with various tools and technologies to analyze data and provide data-driven solutions.
 
 ---
 
