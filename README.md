@@ -1,10 +1,10 @@
 # Hi, I'm Kunal Rajbhar 👋
-_Aspiring Data Analyst | Problem Solver | Tech Enthusiast_
+_Data Analyst | Problem Solver | Tech Enthusiast_
 
 ---
 
 ## 👩‍💻 About Me
-I am an aspiring data analyst with a passion for turning data into actionable insights. I enjoy working with various tools and technologies to analyze data and provide data-driven solutions.
+I am an data analyst with a passion for turning data into actionable insights. I enjoy working with various tools and technologies to analyze data and provide data-driven solutions.
 
 ---
 
